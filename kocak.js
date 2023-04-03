@@ -1,6 +1,4 @@
-window.onload = function() {
-  this.Fire();
-}
+window.onload = function() { this.Fire(); }
 
 var disney = document.getElementById('disney');
 var deezer = document.getElementById('deezer');
