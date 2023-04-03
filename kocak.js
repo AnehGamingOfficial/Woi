@@ -1,5 +1,3 @@
-window.onload = function() { this.Fire(); }
-
 var disney = document.getElementById('disney');
 var deezer = document.getElementById('deezer');
 var crunchyroll = document.getElementById('crunchy');
@@ -16,38 +14,33 @@ function kocak(posts_div, snapshot) {
     "</div></div></div>" ;
 }
 
-if (disney) {
-  function Fire() {
+function Fire() {
+  if (disney) {
     firebase.database().ref('Disney').once('value').then(function(snapshot) {
       var posts_div = disney;
       kocak(posts_div, snapshot);
     });
   }
-}
-
-if (duo) {
-  function Fire() {
+  if (duo) {
     firebase.database().ref('Duolingo').once('value').then(function(snapshot) {
       var posts_div = duo;
       kocak(posts_div, snapshot);
     });
   }
-}
-      
-if (deezer) {
-  function Fire() {
+  if (deezer) {
     firebase.database().ref('Deezer').once('value').then(function(snapshot) {
       var posts_div = deezer;
       kocak(posts_div, snapshot);
     });
   }
-}
- 
-if (crunchy) {
-  function Fire() {
+  if (crunchyroll) {
     firebase.database().ref('Chuncyroll').once('value').then(function(snapshot) {
       var posts_div = crunchyroll;
       kocak(posts_div, snapshot);
     });
   }
 }
+
+window.onload = function() {
+  Fire();
+};
