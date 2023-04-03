@@ -1,4 +1,4 @@
-<script>
+
 window.onload = function() {
   this.Fire();
 }
@@ -56,4 +56,3 @@ if (crunchy) {
   }
 }      
       
-</script>
