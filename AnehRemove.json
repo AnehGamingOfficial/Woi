@@ -1,0 +1,930 @@
+{
+"AamonRemove": {
+      "download": "",
+      "hero": "Aamon",
+      "img": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "img2": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "key": "AamonRemove",
+      "skin_name": "Remove All AamonSkin ?"
+    },
+    "AkaiRemove": {
+      "download": "https://github.com/rahasia55/AG-BACKUP1/blob/master/backup%20akai.zip?raw=true",
+      "hero": "Akai",
+      "img": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "img2": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "key": "AkaiRemove",
+      "skin_name": "Remove All Akai Skin ?"
+    },
+    "AldousRemove": {
+      "download": "https://github.com/rahasia55/AG-BACKUP1/blob/master/backup%20aldous.zip?raw=true",
+      "hero": "Aldous",
+      "img": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "img2": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "key": "AldousRemove",
+      "skin_name": "Remove All Aldous Skin ?"
+    },
+    "AliceRemove": {
+      "download": "https://github.com/rahasia55/AG-BACKUP1/blob/master/backup%20alice.zip?raw=true",
+      "hero": "Alice",
+      "img": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "img2": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "key": "AliceRemove",
+      "skin_name": "Remove All Alice Skin ?"
+    },
+    "AlphaRemove": {
+      "download": "https://github.com/rahasia55/AG-BACKUP1/blob/master/backup%20alpha.zip?raw=true",
+      "hero": "Alpha",
+      "img": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "img2": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "key": "AlphaRemove",
+      "skin_name": "Remove All Alpha Skin ?"
+    },
+    "AlucardRemove": {
+      "download": "https://github.com/rahasia55/AG-BACKUP1/blob/master/backup%20alucard.zip?raw=true",
+      "hero": "Alucard",
+      "img": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "img2": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "key": "AlucardRemove",
+      "skin_name": "Remove All Alucard Skin ?"
+    },
+    "AngelaRemove": {
+      "download": "https://github.com/rahasia55/AG-BACKUP1/blob/master/backup%20angela.zip?raw=true",
+      "hero": "Angela",
+      "img": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "img2": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "key": "AngelaRemove",
+      "skin_name": "Remove All Angela Skin ?"
+    },
+    "ArgusRemove": {
+      "download": "https://github.com/rahasia55/AG-BACKUP1/blob/master/backup%20argus.zip?raw=true",
+      "hero": "Argus",
+      "img": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "img2": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "key": "ArgusRemove",
+      "skin_name": "Remove All Argus Skin ?"
+    },
+    "AtlasRemove": {
+      "download": "https://github.com/rahasia55/AG-BACKUP1/blob/master/backup%20atlas.zip?raw=true",
+      "hero": "Atlas",
+      "img": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "img2": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "key": "AtlasRemove",
+      "skin_name": "Remove All Atlas Skin ?"
+    },
+    "AulusRemove": {
+      "download": "https://github.com/rahasia55/AG-BACKUP1/blob/master/backup%20aulus.zip?raw=true",
+      "hero": "Aulus",
+      "img": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "img2": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "key": "AulusRemove",
+      "skin_name": "Remove All Aulus Skin ?"
+    },
+    "AuroraRemove": {
+      "download": "https://github.com/rahasia55/AG-BACKUP1/blob/master/backup%20aurora.zip?raw=true",
+      "hero": "Aurora",
+      "img": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "img2": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "key": "AuroraRemove",
+      "skin_name": "Remove All Aurora Skin ?"
+    },
+    "BadangRemove": {
+      "download": "https://github.com/rahasia55/AG-BACKUP1/blob/master/backup%20badang.zip?raw=true",
+      "hero": "Badang",
+      "img": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "img2": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "key": "BadangRemove",
+      "skin_name": "Remove All Badang Skin ?"
+    },
+    "BalerickRemove": {
+      "download": "https://github.com/rahasia55/AG-BACKUP1/blob/master/backup%20belerick.zip?raw=true",
+      "hero": "Balerick",
+      "img": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "img2": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "key": "BalerickRemove",
+      "skin_name": "Remove All BalerickSkin ?"
+    },
+    "BalmondRemove": {
+      "download": "https://github.com/rahasia55/AG-BACKUP1/blob/master/backup%20balmond.zip?raw=true",
+      "hero": "Balmond",
+      "img": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "img2": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "key": "BalmondRemove",
+      "skin_name": "Remove All Balmond Skin ?"
+    },
+    "BaneRemove": {
+      "download": "https://github.com/rahasia55/AG-BACKUP1/blob/master/backup%20bane.zip?raw=true",
+      "hero": "Bane",
+      "img": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "img2": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "key": "BaneRemove",
+      "skin_name": "Remove All Bane Skin ?"
+    },
+    "BaratsRemove": {
+      "download": "https://github.com/rahasia55/AG-BACKUP1/blob/master/backup%20barats.zip?raw=true",
+      "hero": "Barats",
+      "img": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "img2": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "key": "BaratsRemove",
+      "skin_name": "Remove All Barats Skin ?"
+    },
+    "BaxiaRemove": {
+      "download": "https://github.com/rahasia55/AG-BACKUP1/blob/master/backup%20baxia.zip?raw=true",
+      "hero": "Baxia",
+      "img": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "img2": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "key": "BaxiaRemove",
+      "skin_name": "Remove All Baxia Skin ?"
+    },
+    "BeatrixRemove": {
+      "download": "https://github.com/rahasia55/AG-BACKUP1/blob/master/backup%20beatrix.zip?raw=true",
+      "hero": "Beatrix",
+      "img": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "img2": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "key": "BeatrixRemove",
+      "skin_name": "Remove All Beatrix Skin ?"
+    },
+    "BenedettaRemove": {
+      "download": "https://github.com/rahasia55/AG-BACKUP1/blob/master/backup%20benedetta.zip?raw=true",
+      "hero": "Benedetta",
+      "img": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "img2": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "key": "BenedettaRemove",
+      "skin_name": "Remove All Benedetta Skin ?"
+    },
+    "BrodyRemove": {
+      "download": "https://github.com/rahasia55/AG-BACKUP1/blob/master/backup%20brody.zip?raw=true",
+      "hero": "Brody",
+      "img": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "img2": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "key": "BrodyRemove",
+      "skin_name": "Remove All Brody Skin ?"
+    },
+    "BrunoRemove": {
+      "download": "https://github.com/rahasia55/AG-BACKUP1/blob/master/backup%20bruno.zip?raw=true",
+      "hero": "Bruno",
+      "img": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "img2": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "key": "BrunoRemove",
+      "skin_name": "Remove All Bruno Skin ?"
+    },
+    "CarmillaRemove": {
+      "download": "https://github.com/rahasia55/AG-BACKUP1/blob/master/backup%20carmilla.zip?raw=true",
+      "hero": "Carmilla",
+      "img": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "img2": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "key": "CarmillaRemove",
+      "skin_name": "Remove All Carmilla Skin ?"
+    },
+    "CecilionRemove": {
+      "download": "https://github.com/rahasia55/AG-BACKUP1/blob/master/backup%20cecilion.zip?raw=true",
+      "hero": "Cecilion",
+      "img": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "img2": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "key": "CecilionRemove",
+      "skin_name": "Remove All Cecilion Skin ?"
+    },
+    "Chang'eRemove": {
+      "download": "https://github.com/rahasia55/AG-BACKUP1/blob/master/backup%20change.zip?raw=true",
+      "hero": "Chang'e",
+      "img": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "img2": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "key": "Chang'eRemove",
+      "skin_name": "Remove All Chang'e Skin ?"
+    },
+    "ChouRemove": {
+      "download": "https://github.com/rahasia55/AG-BACKUP1/blob/master/backup%20chou.zip?raw=true",
+      "hero": "Chou",
+      "img": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "img2": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "key": "ChouRemove",
+      "skin_name": "Remove All Chou Skin ?"
+    },
+    "ClaudeRemove": {
+      "download": "https://github.com/rahasia55/AG-BACKUP1/blob/master/backup%20claude.zip?raw=true",
+      "hero": "Claude",
+      "img": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "img2": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "key": "ClaudeRemove",
+      "skin_name": "Remove All Claude Skin ?"
+    },
+    "ClintRemove": {
+      "download": "https://github.com/rahasia55/AG-BACKUP1/blob/master/backup%20clint.zip?raw=true",
+      "hero": "Clint",
+      "img": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "img2": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "key": "ClintRemove",
+      "skin_name": "Remove All Clint Skin ?"
+    },
+    "CyclopsRemove": {
+      "download": "https://github.com/rahasia55/AG-BACKUP1/blob/master/backup%20cyclops.zip?raw=true",
+      "hero": "Cyclops",
+      "img": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "img2": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "key": "CyclopsRemove",
+      "skin_name": "Remove All Cyclops Skin ?"
+    },
+    "DiggieRemove": {
+      "download": "https://github.com/rahasia55/AG-BACKUP1/blob/master/backup%20diggie.zip?raw=true",
+      "hero": "Diggie",
+      "img": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "img2": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "key": "DiggieRemove",
+      "skin_name": "Remove All Diggie Skin ?"
+    },
+    "DyrrothRemove": {
+      "download": "https://github.com/rahasia55/AG-BACKUP1/blob/master/backup%20dyrroth.zip?raw=true",
+      "hero": "Dyrroth",
+      "img": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "img2": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "key": "DyrrothRemove",
+      "skin_name": "Remove All Dyrroth Skin ?"
+    },
+    "EdithRemove": {
+      "download": "https://github.com/rahasia55/AG-BACKUP1/blob/master/backup%20edith.zip?raw=true",
+      "hero": "Edith",
+      "img": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "img2": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "key": "EdithRemove",
+      "skin_name": "Remove All Edith Skin ?"
+    },
+    "EsmeraldaRemove": {
+      "download": "https://github.com/rahasia55/AG-BACKUP1/blob/master/backup%20esmeralda.zip?raw=true",
+      "hero": "Esmeralda",
+      "img": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "img2": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "key": "EsmeraldaRemove",
+      "skin_name": "Remove All Esmeralda Skin ?"
+    },
+    "EstesRemove": {
+      "download": "https://github.com/rahasia55/AG-BACKUP1/blob/master/backup%20estes.zip?raw=true",
+      "hero": "Estes",
+      "img": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "img2": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "key": "EstesRemove",
+      "skin_name": "Remove All Estes Skin ?"
+    },
+    "EudoraRemove": {
+      "download": "https://github.com/rahasia55/AG-BACKUP1/blob/master/backup%20eudora.zip?raw=true",
+      "hero": "Eudora",
+      "img": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "img2": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "key": "EudoraRemove",
+      "skin_name": "Remove All Eudora Skin ?"
+    },
+    "FannyRemove": {
+      "download": "https://github.com/rahasia55/AG-BACKUP1/blob/master/backup%20fanny.zip?raw=true",
+      "hero": "Fanny",
+      "img": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "img2": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "key": "FannyRemove",
+      "skin_name": "Remove All Fanny Skin ?"
+    },
+    "FaramisRemove": {
+      "download": "https://github.com/rahasia55/AG-BACKUP1/blob/master/backup%20faramis.zip?raw=true",
+      "hero": "Faramis",
+      "img": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "img2": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "key": "FaramisRemove",
+      "skin_name": "Remove All Faramis Skin ?"
+    },
+    "FlorynRemove": {
+      "download": "https://github.com/rahasia55/AG-BACKUP1/blob/master/backup%20floryn.zip?raw=true",
+      "hero": "Floryn",
+      "img": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "img2": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "key": "FlorynRemove",
+      "skin_name": "Remove All Floryn Skin ?"
+    },
+    "FrancoRemove": {
+      "download": "https://github.com/rahasia55/AG-BACKUP1/blob/master/backup%20franco.zip?raw=true",
+      "hero": "Franco",
+      "img": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "img2": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "key": "FrancoRemove",
+      "skin_name": "Remove All Franco Skin ?"
+    },
+    "FredrinRemove": {
+      "download": "https://github.com/AnehGamingOfficial/Woi/raw/main/Baxckup%20Fredrin.zip",
+      "hero": "Fredrin",
+      "img": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "img2": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "key": "FredrinRemove",
+      "skin_name": "Remove All FredrinSkin ?"
+    },
+    "FreyaRemove": {
+      "download": "https://github.com/rahasia55/AG-BACKUP1/blob/master/backup%20freya.zip?raw=true",
+      "hero": "Freya",
+      "img": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "img2": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "key": "FreyaRemove",
+      "skin_name": "Remove All Freya Skin ?"
+    },
+    "GatotkacaRemove": {
+      "download": "https://github.com/rahasia55/AG-BACKUP1/blob/master/backup%20gatotkaca.zip?raw=true",
+      "hero": "Gatotkaca",
+      "img": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "img2": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "key": "GatotkacaRemove",
+      "skin_name": "Remove All Gatotkaca Skin ?"
+    },
+    "GlooRemove": {
+      "download": "https://github.com/rahasia55/AG-BACKUP1/blob/master/backup%20gloo.zip?raw=true",
+      "hero": "Gloo",
+      "img": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "img2": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "key": "GlooRemove",
+      "skin_name": "Remove All Gloo Skin ?"
+    },
+    "GordRemove": {
+      "download": "https://github.com/rahasia55/AG-BACKUP1/blob/master/backup%20gord.zip?raw=true",
+      "hero": "Gord",
+      "img": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "img2": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "key": "GordRemove",
+      "skin_name": "Remove All Gord Skin ?"
+    },
+    "GrangerRemove": {
+      "download": "https://github.com/rahasia55/AG-BACKUP1/blob/master/backup%20granger.zip?raw=true",
+      "hero": "Granger",
+      "img": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "img2": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "key": "GrangerRemove",
+      "skin_name": "Remove All Granger Skin ?"
+    },
+    "GrockRemove": {
+      "download": "https://github.com/rahasia55/AG-BACKUP1/blob/master/backup%20grock.zip?raw=true",
+      "hero": "Grock",
+      "img": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "img2": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "key": "GrockRemove",
+      "skin_name": "Remove All Grock Skin ?"
+    },
+    "GuinevereRemove": {
+      "download": "https://github.com/rahasia55/AG-BACKUP1/blob/master/backup%20guinevere.zip?raw=true",
+      "hero": "Guinevere",
+      "img": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "img2": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "key": "GuinevereRemove",
+      "skin_name": "Remove All Guinevere Skin ?"
+    },
+    "GusionRemove": {
+      "download": "https://github.com/rahasia55/AG-BACKUP1/blob/master/backup%20gusion.zip?raw=true",
+      "hero": "Gusion",
+      "img": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "img2": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "key": "GusionRemove",
+      "skin_name": "Remove All Gusion Skin ?"
+    },
+    "HanabiRemove": {
+      "download": "https://github.com/rahasia55/AG-BACKUP1/blob/master/backup%20hanabi.zip?raw=true",
+      "hero": "Hanabi",
+      "img": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "img2": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "key": "HanabiRemove",
+      "skin_name": "Remove All Hanabi Skin ?"
+    },
+    "HanzoRemove": {
+      "download": "https://github.com/rahasia55/AG-BACKUP1/blob/master/backup%20hanzo.zip?raw=true",
+      "hero": "Hanzo",
+      "img": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "img2": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "key": "HanzoRemove",
+      "skin_name": "Remove All Hanzo Skin ?"
+    },
+    "HarithRemove": {
+      "download": "https://github.com/rahasia55/AG-BACKUP1/blob/master/backup%20harith.zip?raw=true",
+      "hero": "Harith",
+      "img": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "img2": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "key": "HarithRemove",
+      "skin_name": "Remove All Harith Skin ?"
+    },
+    "HarleyRemove": {
+      "download": "https://github.com/rahasia55/AG-BACKUP1/blob/master/backup%20harley.zip?raw=true",
+      "hero": "Harley",
+      "img": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "img2": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "key": "HarleyRemove",
+      "skin_name": "Remove All Harley Skin ?"
+    },
+    "HayabusaRemove": {
+      "download": "https://github.com/rahasia55/AG-BACKUP1/blob/master/backup%20hayabusa.zip?raw=true",
+      "hero": "Hayabusa",
+      "img": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "img2": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "key": "HayabusaRemove",
+      "skin_name": "Remove All Hayabusa Skin ?"
+    },
+    "HelcurtRemove": {
+      "download": "https://github.com/rahasia55/AG-BACKUP1/blob/master/backup%20helcurt.zip?raw=true",
+      "hero": "Helcurt",
+      "img": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "img2": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "key": "HelcurtRemove",
+      "skin_name": "Remove All Helcurt Skin ?"
+    },
+    "HildaRemove": {
+      "download": "https://github.com/rahasia55/AG-BACKUP1/blob/master/backup%20hilda.zip?raw=true",
+      "hero": "Hilda",
+      "img": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "img2": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "key": "HildaRemove",
+      "skin_name": "Remove All Hilda Skin ?"
+    },
+    "HylosRemove": {
+      "download": "https://github.com/rahasia55/AG-BACKUP1/blob/master/backup%20hylos.zip?raw=true",
+      "hero": "Hylos",
+      "img": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "img2": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "key": "HylosRemove",
+      "skin_name": "Remove All Hylos Skin ?"
+    },
+    "IrithelRemove": {
+      "download": "https://github.com/rahasia55/AG-BACKUP1/blob/master/backup%20irithel.zip?raw=true",
+      "hero": "Irithel",
+      "img": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "img2": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "key": "IrithelRemove",
+      "skin_name": "Remove All Irithel Skin ?"
+    },
+    "JawheadRemove": {
+      "download": "https://github.com/rahasia55/AG-BACKUP1/blob/master/backup%20jawhead.zip?raw=true",
+      "hero": "Jawhead",
+      "img": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "img2": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "key": "JawheadRemove",
+      "skin_name": "Remove All Jawhead Skin ?"
+    },
+    "JohnsonRemove": {
+      "download": "https://github.com/rahasia55/AG-BACKUP1/blob/master/backup%20jhonson.zip?raw=true",
+      "hero": "Johnson",
+      "img": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "img2": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "key": "JohnsonRemove",
+      "skin_name": "Remove All Johnson Skin ?"
+    },
+    "JoyRemove": {
+      "download": "https://github.com/rahasia55/AG-BACKUP1/blob/master/backup%20joy.zip?raw=true",
+      "hero": "Joy",
+      "img": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "img2": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "key": "JoyRemove",
+      "skin_name": "Remove All Joy Skin?"
+    },
+    "JulianRemove": {
+      "download": "https://github.com/rahasia55/AG-BACKUP1/blob/master/backup%20julian.zip?raw=true",
+      "hero": "Julian",
+      "img": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "img2": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "key": "JulianRemove",
+      "skin_name": "Remove All Julian Skin ?"
+    },
+    "KaditaRemove": {
+      "download": "https://github.com/rahasia55/AG-BACKUP1/blob/master/backup%20kadita.zip?raw=true",
+      "hero": "Kadita",
+      "img": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "img2": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "key": "KaditaRemove",
+      "skin_name": "Remove All Kadita Skin ?"
+    },
+    "KaguraRemove": {
+      "download": "https://github.com/rahasia55/AG-BACKUP1/blob/master/backup%20kagura.zip?raw=true",
+      "hero": "Kagura",
+      "img": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "img2": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "key": "KaguraRemove",
+      "skin_name": "Remove All Kagura Skin ?"
+    },
+    "KajaRemove": {
+      "download": "https://github.com/rahasia55/AG-BACKUP1/blob/master/backup%20kaja.zip?raw=true",
+      "hero": "Kaja",
+      "img": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "img2": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "key": "KajaRemove",
+      "skin_name": "Remove All Kaja Skin ?"
+    },
+    "KarinaRemove": {
+      "download": "https://github.com/rahasia55/AG-BACKUP1/blob/master/backup%20karina.zip?raw=true",
+      "hero": "Karina",
+      "img": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "img2": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "key": "KarinaRemove",
+      "skin_name": "Remove All Karina Skin ?"
+    },
+    "KarrieRemove": {
+      "download": "https://github.com/rahasia55/AG-BACKUP1/blob/master/backup%20karrie.zip?raw=true",
+      "hero": "Karrie",
+      "img": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "img2": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "key": "KarrieRemove",
+      "skin_name": "Remove All Karrie Skin ?"
+    },
+    "KhufraRemove": {
+      "download": "https://github.com/rahasia55/AG-BACKUP1/blob/master/backup%20khufra.zip?raw=true",
+      "hero": "Khufra",
+      "img": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "img2": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "key": "KhufraRemove",
+      "skin_name": "Remove All Khufra Skin ?"
+    },
+    "KimmyRemove": {
+      "download": "https://github.com/rahasia55/AG-BACKUP1/blob/master/backup%20kimmy.zip?raw=true",
+      "hero": "Kimmy",
+      "img": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "img2": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "key": "KimmyRemove",
+      "skin_name": "Remove All Kimmy Skin ?"
+    },
+    "LancelotRemove": {
+      "download": "https://github.com/rahasia55/AG-BACKUP1/blob/master/backup%20lancelot.zip?raw=true",
+      "hero": "Lancelot",
+      "img": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "img2": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "key": "LancelotRemove",
+      "skin_name": "Remove All Lancelot Skin ?"
+    },
+    "Lapu-LapuRemove": {
+      "download": "https://github.com/rahasia55/AG-BACKUP1/blob/master/backup%20lapulapu.zip?raw=true",
+      "hero": "Lapu-Lapu",
+      "img": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "img2": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "key": "Lapu-LapuRemove",
+      "skin_name": "Remove All Lapu-Lapu Skin ?"
+    },
+    "LaylaRemove": {
+      "download": "https://github.com/rahasia55/AG-BACKUP1/blob/master/backup%20layla.zip?raw=true",
+      "hero": "Layla",
+      "img": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "img2": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "key": "LaylaRemove",
+      "skin_name": "Remove All Layla Skin ?"
+    },
+    "LeomordRemove": {
+      "download": "https://github.com/rahasia55/AG-BACKUP1/blob/master/backup%20leomord.zip?raw=true",
+      "hero": "Leomord",
+      "img": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "img2": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "key": "LeomordRemove",
+      "skin_name": "Remove All Leomord Skin ?"
+    },
+    "LesleyRemove": {
+      "download": "https://github.com/rahasia55/AG-BACKUP1/blob/master/backup%20lesley.zip?raw=true",
+      "hero": "Lesley",
+      "img": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "img2": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "key": "LesleyRemove",
+      "skin_name": "Remove All Lesley Skin ?"
+    },
+    "LilyaRemove": {
+      "download": "https://github.com/rahasia55/AG-BACKUP1/blob/master/backup%20lilya.zip?raw=true",
+      "hero": "Lilya",
+      "img": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "img2": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "key": "LilyaRemove",
+      "skin_name": "Remove All Lilya Skin ?"
+    },
+    "LingRemove": {
+      "download": "https://github.com/rahasia55/AG-BACKUP1/blob/master/backup%20ling.zip?raw=true",
+      "hero": "Ling",
+      "img": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "img2": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "key": "LingRemove",
+      "skin_name": "Remove All Ling Skin ?"
+    },
+    "LolitaRemove": {
+      "download": "https://github.com/rahasia55/AG-BACKUP1/blob/master/backup%20lolita.zip?raw=true",
+      "hero": "Lolita",
+      "img": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "img2": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "key": "LolitaRemove",
+      "skin_name": "Remove All Lolita Skin ?"
+    },
+    "LunoxRemove": {
+      "download": "https://github.com/rahasia55/AG-BACKUP1/blob/master/backup%20lunox.zip?raw=true",
+      "hero": "Lunox",
+      "img": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "img2": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "key": "LunoxRemove",
+      "skin_name": "Remove All Lunox Skin ?"
+    },
+    "Luo YiRemove": {
+      "download": "https://github.com/rahasia55/AG-BACKUP1/blob/master/backup%20luoyi.zip?raw=true",
+      "hero": "Luo Yi",
+      "img": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "img2": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "key": "Luo YiRemove",
+      "skin_name": "Remove All Luo Yi Skin ?"
+    },
+    "MartisRemove": {
+      "download": "https://github.com/rahasia55/AG-BACKUP2/blob/master/backup%20martis.zip?raw=true",
+      "hero": "Martis",
+      "img": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "img2": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "key": "MartisRemove",
+      "skin_name": "Remove All Martis Skin ?"
+    },
+    "MashaRemove": {
+      "download": "https://github.com/rahasia55/AG-BACKUP2/blob/master/backup%20masha.zip?raw=true",
+      "hero": "Masha",
+      "img": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "img2": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "key": "MashaRemove",
+      "skin_name": "Remove All Masha Skin ?"
+    },
+    "MathildaRemove": {
+      "download": "https://github.com/rahasia55/AG-BACKUP2/blob/master/backup%20mathilda.zip?raw=true",
+      "hero": "Mathilda",
+      "img": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "img2": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "key": "MathildaRemove",
+      "skin_name": "Remove All Mathilda Skin ?"
+    },
+    "MelissaRemove": {
+      "download": "https://github.com/rahasia55/AG-BACKUP2/blob/master/backup%20melissa.zip?raw=true",
+      "hero": "Melissa",
+      "img": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "img2": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "key": "MelissaRemove",
+      "skin_name": "Remove All Melissa Skin ?"
+    },
+    "MinotaurRemove": {
+      "download": "https://github.com/rahasia55/AG-BACKUP2/blob/master/backup%20minotour.zip?raw=true",
+      "hero": "Minotaur",
+      "img": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "img2": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "key": "MinotaurRemove",
+      "skin_name": "Remove All Minotaur Skin ?"
+    },
+    "MinsittarRemove": {
+      "download": "https://github.com/rahasia55/AG-BACKUP2/blob/master/backup%20minsittar.zip?raw=true",
+      "hero": "Minsittar",
+      "img": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "img2": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "key": "MinsittarRemove",
+      "skin_name": "Remove All Minsittar Skin ?"
+    },
+    "MiyaRemove": {
+      "download": "https://github.com/rahasia55/AG-BACKUP2/blob/master/backup%20minsittar.zip?raw=true",
+      "hero": "Miya",
+      "img": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "img2": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "key": "MiyaRemove",
+      "skin_name": "Remove All Miya Skin ?"
+    },
+    "MoskovRemove": {
+      "download": "https://github.com/rahasia55/AG-BACKUP2/blob/master/backup%20moskov.zip?raw=true",
+      "hero": "Moskov",
+      "img": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "img2": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "key": "MoskovRemove",
+      "skin_name": "Remove All Moskov Skin ?"
+    },
+    "NanaRemove": {
+      "download": "https://github.com/rahasia55/AG-BACKUP2/blob/master/backup%20natalia.zip?raw=true",
+      "hero": "Nana",
+      "img": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "img2": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "key": "NanaRemove",
+      "skin_name": "Remove All Nana Skin ?"
+    },
+    "NataliaRemove": {
+      "download": "https://github.com/rahasia55/AG-BACKUP2/blob/master/backup%20natalia.zip?raw=true",
+      "hero": "Natalia",
+      "img": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "img2": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "key": "NataliaRemove",
+      "skin_name": "Remove All Natalia Skin ?"
+    },
+    "NatanRemove": {
+      "download": "https://github.com/rahasia55/AG-BACKUP2/blob/master/backup%20natan.zip?raw=true",
+      "hero": "Natan",
+      "img": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "img2": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "key": "NatanRemove",
+      "skin_name": "Remove All Natan Skin ?"
+    },
+    "OdetteRemove": {
+      "download": "https://github.com/rahasia55/AG-BACKUP2/blob/master/backup%20odette.zip?raw=true",
+      "hero": "Odete",
+      "img": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "img2": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "key": "OdetteRemove",
+      "skin_name": "Remove All Odette Skin ?"
+    },
+    "PaquitoRemove": {
+      "download": "https://github.com/rahasia55/AG-BACKUP2/blob/master/backup%20paquito.zip?raw=true",
+      "hero": "Paquito",
+      "img": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "img2": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "key": "PaquitoRemove",
+      "skin_name": "Remove All Paquito Skin ?"
+    },
+    "ParshaRemove": {
+      "download": "https://github.com/rahasia55/AG-BACKUP2/blob/master/backup%20pharsa.zip?raw=true",
+      "hero": "Parsha",
+      "img": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "img2": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "key": "ParshaRemove",
+      "skin_name": "Remove All Parsha Skin ?"
+    },
+    "PhoveusRemove": {
+      "download": "https://github.com/rahasia55/AG-BACKUP2/blob/master/backup%20phoveus.zip?raw=true",
+      "hero": "Phoveus",
+      "img": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "img2": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "key": "PhoveusRemove",
+      "skin_name": "Remove All Phoveus Skin ?"
+    },
+    "Popol & KupaRemove": {
+      "download": "https://github.com/rahasia55/AG-BACKUP2/blob/master/backup%20popol%20kupa.zip?raw=true",
+      "hero": "Popol & Kupa",
+      "img": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "img2": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "key": "Popol & KupaRemove",
+      "skin_name": "Remove All Popol & Kupa Skin ?"
+    },
+    "RafaelaRemove": {
+      "download": "https://github.com/rahasia55/AG-BACKUP2/blob/master/backup%20rafaela.zip?raw=true",
+      "hero": "Rafaela",
+      "img": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "img2": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "key": "RafaelaRemove",
+      "skin_name": "Remove All Rafaela Skin ?"
+    },
+    "RogerRemove": {
+      "download": "https://github.com/rahasia55/AG-BACKUP2/blob/master/backup%20roger.zip?raw=true",
+      "hero": "Roger",
+      "img": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "img2": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "key": "RogerRemove",
+      "skin_name": "Remove All Roger Skin ?"
+    },
+    "RubyRemove": {
+      "download": "https://github.com/rahasia55/AG-BACKUP2/blob/master/backup%20ruby.zip?raw=true",
+      "hero": "Ruby",
+      "img": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "img2": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "key": "RubyRemove",
+      "skin_name": "Remove All Ruby Skin ?"
+    },
+    "SaberRemove": {
+      "download": "https://github.com/rahasia55/AG-BACKUP2/blob/master/backup%20saber.zip?raw=true",
+      "hero": "Saber",
+      "img": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "img2": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "key": "SaberRemove",
+      "skin_name": "Remove All Saber Skin ?"
+    },
+    "SelenaRemove": {
+      "download": "https://github.com/rahasia55/AG-BACKUP2/blob/master/backup%20selena.zip?raw=true",
+      "hero": "Selena",
+      "img": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "img2": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "key": "SelenaRemove",
+      "skin_name": "Remove All Selena Skin ?"
+    },
+    "SilvanaRemove": {
+      "download": "https://github.com/rahasia55/AG-BACKUP2/blob/master/backup%20silvanna.zip?raw=true",
+      "hero": "Silvana",
+      "img": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "img2": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "key": "SilvanaRemove",
+      "skin_name": "Remove All Silvanna Skin ?"
+    },
+    "SunRemove": {
+      "download": "https://github.com/rahasia55/AG-BACKUP2/blob/master/backup%20sun.zip?raw=true",
+      "hero": "Sun",
+      "img": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "img2": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "key": "SunRemove",
+      "skin_name": "Remove All Sun Skin ?"
+    },
+    "TerizlaRemove": {
+      "download": "https://github.com/rahasia55/AG-BACKUP2/blob/master/backup%20terizla.zip?raw=true",
+      "hero": "Terizla",
+      "img": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "img2": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "key": "TerizlaRemove",
+      "skin_name": "Remove All Terizla Skin ?"
+    },
+    "ThamusRemove": {
+      "download": "https://github.com/rahasia55/AG-BACKUP2/blob/master/backup%20thamuz.zip?raw=true",
+      "hero": "Thamus",
+      "img": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "img2": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "key": "ThamusRemove",
+      "skin_name": "Remove All Thamuz Skin ?"
+    },
+    "TigrealRemove": {
+      "download": "https://github.com/rahasia55/AG-BACKUP2/blob/master/backup%20tigreal.zip?raw=true",
+      "hero": "Tigreal",
+      "img": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "img2": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "key": "TigrealRemove",
+      "skin_name": "Remove All Tigreal Skin ?"
+    },
+    "UranusRemove": {
+      "download": "https://github.com/rahasia55/AG-BACKUP2/blob/master/backup%20uranus.zip?raw=true",
+      "hero": "Uranus",
+      "img": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "img2": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "key": "UranusRemove",
+      "skin_name": "Remove All Uranus Skin ?"
+    },
+    "ValeRemove": {
+      "download": "https://github.com/rahasia55/AG-BACKUP2/blob/master/backup%20vale.zip?raw=true",
+      "hero": "Vale",
+      "img": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "img2": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "key": "ValeRemove",
+      "skin_name": "Remove All Vale Skin ?"
+    },
+    "ValentinaRemove": {
+      "download": "https://github.com/rahasia55/AG-BACKUP2/blob/master/backup%20valentina.zip?raw=true",
+      "hero": "Valentina",
+      "img": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "img2": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "key": "ValentinaRemove",
+      "skin_name": "Remove All Valentina Skin ?"
+    },
+    "ValirRemove": {
+      "download": "https://github.com/rahasia55/AG-BACKUP2/blob/master/backup%20valir.zip?raw=true",
+      "hero": "Valir",
+      "img": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "img2": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "key": "ValirRemove",
+      "skin_name": "Remove All Valir Skin ?"
+    },
+    "VexanaRemove": {
+      "download": "https://github.com/rahasia55/AG-BACKUP2/blob/master/backup%20vexana.zip?raw=true",
+      "hero": "Vexana",
+      "img": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "img2": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "key": "VexanaRemove",
+      "skin_name": "Remove All Vexana Skin ?"
+    },
+    "WanwanRemove": {
+      "download": "https://github.com/rahasia55/AG-BACKUP2/blob/master/backup%20wanwan.zip?raw=true",
+      "hero": "Wanwan",
+      "img": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "img2": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "key": "WanwanRemove",
+      "skin_name": "Remove All Wanwan Skin ?"
+    },
+    "X-BorgRemove": {
+      "download": "https://github.com/rahasia55/AG-BACKUP2/blob/master/backup%20xborg.zip?raw=true",
+      "hero": "X-Borg",
+      "img": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "img2": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "key": "X-BorgRemove",
+      "skin_name": "Remove All X Borg Skin ?"
+    },
+    "XavierRemove": {
+      "download": "https://github.com/rahasia55/AG-BACKUP2/blob/master/backup%20xavier.zip?raw=true",
+      "hero": "Xavier",
+      "img": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "img2": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "key": "XavierRemove",
+      "skin_name": "Remove All Xavier Skin ?"
+    },
+    "YinRemove": {
+      "download": "https://github.com/rahasia55/AG-BACKUP2/blob/master/backup%20yin.zip?raw=true",
+      "hero": "Yin",
+      "img": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "img2": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "key": "YinRemove",
+      "skin_name": "Remove All Yin Skin ?"
+    },
+    "Yu Shun ShinRemove": {
+      "download": "https://github.com/rahasia55/AG-BACKUP2/blob/master/backup%20yishunshin.zip?raw=true",
+      "hero": "Yi Shun Shin",
+      "img": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "img2": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "key": "Yu Shun ShinRemove",
+      "skin_name": "Remove All Yu Shun Shin Skin ?"
+    },
+    "Yu ZhongRemove": {
+      "download": "https://github.com/rahasia55/AG-BACKUP2/blob/master/backup%20yu%20zhong.zip?raw=true",
+      "hero": "Yu Zhong",
+      "img": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "img2": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "key": "Yu ZhongRemove",
+      "skin_name": "Remove All Yu Zhong Skin ?"
+    },
+    "ZhaskRemove": {
+      "download": "https://github.com/rahasia55/AG-BACKUP2/blob/master/backup%20zhask.zip?raw=true",
+      "hero": "Zhask",
+      "img": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "img2": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "key": "ZhaskRemove",
+      "skin_name": "Remove All Zhask Skin ?"
+    },
+    "ZilongRemove": {
+      "download": "https://github.com/rahasia55/AG-BACKUP2/blob/master/backup%20zilong.zip?raw=true",
+      "hero": "Zilong",
+      "img": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "img2": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "key": "ZilongRemove",
+      "skin_name": "Remove All Zilong Skin ?"
+    }
+  }
